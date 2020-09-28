@@ -1,0 +1,25 @@
+
+
+.form{
+    height: 400px;
+    width: 350px;
+    margin: 200px 100px 100px 500px ;
+}
+
+body{
+    background-image:url(hedwig.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+input,button{
+    margin: 10px 10px 10px 10px;
+}
+
+h2{
+    color: rgb(252, 76, 32);
+}
+
+button{
+    background:linear-gradiant(rgb(230, 100, 82),rgb(27, 255, 160);
+}

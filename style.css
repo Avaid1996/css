@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Harry Potter';
+    src: url('HARRP___.TTF');
+  }
+      
+
+
+*{
+    overflow:hidden;
+    margin: 0%;
+    list-style: none;
+}
+
+body{
+
+    background-image:url(harry_potter.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+
+li.nlink
+{
+    float:none;
+    display: inline-block;
+    font-weight: bold;
+    color:white;
+    font-size: 18x;
+    text-transform: uppercase;
+    margin: 2px 20px;
+}
+ul.nn{
+    margin: 20px 470px;
+    position: fixed;
+}
+
+a.lk, a.kk {
+    color: white;
+    text-decoration: none;
+
+}
+
+ul.new{
+    display: none;
+    position: relative;;
+    min-width: 100px;
+    top: 100%;
+}
+
+li.nlink:hover ul.new{
+    display:block;
+}
+
+.nav{
+
+    height:80px;
+    width: 100%;
+    background-color: black;
+    opacity: 0.4;
+}
+
+
+
+.btn{
+    margin-left: 30px ;
+    padding:10px;
+    border-radius: 20px;
+    line-height: 80px;
+    color:white;
+    text-decoration: none;
+    border  : 2px solid white;
+    
+}
+
+
+.wrapper{
+    height: 100%;
+    width: 100%;
+
+}
+
+.wrap{
+    margin-top: 350px;
+    height: 80px;
+    width: 300px;
+    margin-left: 600px;
+    position: relative;
+}
+
+
+#green{
+    background-color:rgb(41, 245, 194);
+    color: black;
+    border: 1px solid black;
+    
+
+}
+
+
+#white{
+    
+    background-color:cyan;
+    color: rgb(252, 61, 61);
+    border: 1px solid rgb(252, 61, 61);
+    
+}
+
+
+p{
+    font-size: 100px;
+    font-family:'Harry Potter';
+    font-weight: bold;
+    padding-left:500px;
+}
+
+
+li.cc{
+    padding: 10px;
+}
+

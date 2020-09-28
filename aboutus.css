@@ -1,0 +1,18 @@
+h3,h2{
+    display:inline-block;
+}
+h4{
+    margin-left: 700px;
+    text-align:center;
+    display: inline-block;
+}
+
+body{
+    background-image:url(ab.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+img{
+    border-radius: 50%;
+}

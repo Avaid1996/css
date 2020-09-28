@@ -1,0 +1,7 @@
+body{
+    color: white;
+    background-image:url(wand.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
